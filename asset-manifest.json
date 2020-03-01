@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nmatecki/Spraybooth/static/css/main.d1b05096.chunk.css",
-    "main.js": "/nmatecki/Spraybooth/static/js/main.7915f757.chunk.js",
-    "main.js.map": "/nmatecki/Spraybooth/static/js/main.7915f757.chunk.js.map",
-    "runtime-main.js": "/nmatecki/Spraybooth/static/js/runtime-main.497a3c5d.js",
-    "runtime-main.js.map": "/nmatecki/Spraybooth/static/js/runtime-main.497a3c5d.js.map",
-    "static/js/2.0dedce7f.chunk.js": "/nmatecki/Spraybooth/static/js/2.0dedce7f.chunk.js",
-    "static/js/2.0dedce7f.chunk.js.map": "/nmatecki/Spraybooth/static/js/2.0dedce7f.chunk.js.map",
-    "index.html": "/nmatecki/Spraybooth/index.html",
-    "precache-manifest.ae18c5f1bc43e8427b45c908a3e53b48.js": "/nmatecki/Spraybooth/precache-manifest.ae18c5f1bc43e8427b45c908a3e53b48.js",
-    "service-worker.js": "/nmatecki/Spraybooth/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/nmatecki/Spraybooth/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.0dedce7f.chunk.js.LICENSE.txt": "/nmatecki/Spraybooth/static/js/2.0dedce7f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/nmatecki/Spraybooth/static/media/logo.5d5d9eef.svg"
+    "main.css": "/SprayboothV1/static/css/main.d1b05096.chunk.css",
+    "main.js": "/SprayboothV1/static/js/main.1a423d0e.chunk.js",
+    "main.js.map": "/SprayboothV1/static/js/main.1a423d0e.chunk.js.map",
+    "runtime-main.js": "/SprayboothV1/static/js/runtime-main.b6422cb9.js",
+    "runtime-main.js.map": "/SprayboothV1/static/js/runtime-main.b6422cb9.js.map",
+    "static/js/2.0dedce7f.chunk.js": "/SprayboothV1/static/js/2.0dedce7f.chunk.js",
+    "static/js/2.0dedce7f.chunk.js.map": "/SprayboothV1/static/js/2.0dedce7f.chunk.js.map",
+    "index.html": "/SprayboothV1/index.html",
+    "precache-manifest.7bbb07873d3fc356e25859b39aa81911.js": "/SprayboothV1/precache-manifest.7bbb07873d3fc356e25859b39aa81911.js",
+    "service-worker.js": "/SprayboothV1/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/SprayboothV1/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0dedce7f.chunk.js.LICENSE.txt": "/SprayboothV1/static/js/2.0dedce7f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SprayboothV1/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.497a3c5d.js",
+    "static/js/runtime-main.b6422cb9.js",
     "static/js/2.0dedce7f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.7915f757.chunk.js"
+    "static/js/main.1a423d0e.chunk.js"
   ]
 }
